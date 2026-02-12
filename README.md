@@ -1,6 +1,8 @@
 # serene
 studio 7a
 
+το android studio μας έιναι στο releases.
+
 **Εγκατάσταση & Εκτέλεση (Backend)**
 1. pip install fastapi uvicorn sqlalchemy firebase-admin
 2. Εκκινήστε τον server μέσα στον φάκελο που είναι τα python αρχεία σας με την εντολή: python main.py
